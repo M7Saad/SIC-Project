@@ -1,8 +1,8 @@
 tensorflow
 numpy
-cv2
+opencv-python
 tqdm
 matplotlib
 tensorboard
 tensorflow_hub
-sklearn
+scikit-learn
