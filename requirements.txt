@@ -1,7 +1,5 @@
 tensorflow
 numpy
-opencv-python
-tqdm
 matplotlib
 tensorboard
 tensorflow_hub
