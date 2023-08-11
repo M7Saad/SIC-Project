@@ -5,3 +5,4 @@ tensorboard
 tensorflow_hub
 scikit-learn
 gradio
+seaborn
