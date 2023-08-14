@@ -1,5 +1,5 @@
 # Fire and Smoke Detection
-This project aims to detect and monitor fire incidents by training a deep learning model to classify fire and smoke images. Hoping that it contributes to sustainable safety management systems. 
+This project aims to detect and monitor fire incidents by training a deep learning model to classify fire and smoke images. 
 ## Installation 
 if you are interested in running the project on your device, make sure to install all the dependencies.
 You can write the command below to install it all:
