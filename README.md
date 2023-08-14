@@ -40,6 +40,6 @@ The models used in this experiment were:
 
 
 ## Deployment
-To deploy our model, we used Gradio library to build an interface. \ 
+To deploy our model, we used Gradio library to build an interface. \
 You can check the website [here](https://4f19cf68b86ba94583.gradio.live) \
 ![Website-Interface](https://github.com/M7Saad/SIC-Project/assets/141254648/2a2f28e9-2103-4433-9cdf-3092eeb66ce1)
