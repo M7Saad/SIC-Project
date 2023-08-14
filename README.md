@@ -12,7 +12,7 @@ This project used [Fire-Smoke-Dataset](https://github.com/DeepQuestAI/Fire-Smoke
 ## Experiement set-up
 ### Data Preparation
  - Data Partitioning: splits the dataset into train/val/test folders in the `Data Preparation.ipynb` notebook.
- - Data Preprocessing: resize, rescale, and augment the dataset in the 'code.ipynb' notebook.
+ - Data Preprocessing: resize, rescale, and augment the dataset in the `code.ipynb` notebook.
 ### Methodology
 The models used in this experiment were:
 - CNN model from scratch.
@@ -41,5 +41,5 @@ The models used in this experiment were:
 
 ## Deployment
 To deploy our model, we used Gradio library to build an interface. \
-You can check the website [here](https://4f19cf68b86ba94583.gradio.live) \
+You can locally host the interface by running `Image_server.py`. \
 ![Website-Interface](https://github.com/M7Saad/SIC-Project/assets/141254648/2a2f28e9-2103-4433-9cdf-3092eeb66ce1)
